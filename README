@@ -1,0 +1,12 @@
+A Python package with quaternion arithmetics and 3D rotation around an 
+arbitrary axis, based on quaternions.
+
+For more information, see docstrings in "quaternion.py" and "rotation.py".
+Additionally see unit testing scripts "quaternion_test.py" and
+"rotation_test.py".
+
+The package is licenced under the Apache 2.0 license. See LICENSE.txt and
+http://www.apache.org/licenses/LICENSE-2.0
+for more details.
+
+The author of the package is Jernej Kovacic (jkovacic AT gmail DOT com).
