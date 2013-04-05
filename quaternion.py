@@ -36,8 +36,8 @@ class Quaternion() :
     # Internal instance members:
     # o - quaternion's scalar component
     # i - quaternion's 'i' component
-    # j - quaternion's 'i' component
-    # k - quaternion's 'i' component
+    # j - quaternion's 'j' component
+    # k - quaternion's 'k' component
     
     """Tolerance for determination whether a number is "close enough" to zero"""
     eps = 1e-12
